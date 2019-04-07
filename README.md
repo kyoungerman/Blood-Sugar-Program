@@ -1,0 +1,2 @@
+# Blood-Sugar-Program
+Project made for COSC 2030: Data Structures. It is a program that uses an array of linked lists to store blood sugar readings (user input), do various mathematical operations on the data, and report a summary back to the user. It uses the console as a user interface. It only goes up to two weeks due to assignment specifications, but could easily be modified to store as many weeks as needed. It was written in C++, without the STL.   
